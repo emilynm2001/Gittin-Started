@@ -26,51 +26,11 @@ public static void main(String[] args) {
 ```
 <br><br>
 
-  <h1 style="color: yellow; text-align: center;">
-    My rankings of the three main minions:
-  </h1>
-  <table cellspacing="10">
-    <tr>
-        <td> 
-        <p style="font-size: 100px;"> 1 </p>
-        </td>
-        <td>
-            <img src="bob.png" >
-        </td>
-        <td>
-            <p style="font-size: 25px; text-align: center;"> Bob</p>
-            <p style="font-size: 20px;">
-            It's Bob the Minion, also known as King Bob. You can tell Bob apart from his “buddies” because he's short, bald, and has heterochromia (one green eye, one brown eye). Bob is the youngest of the minions (though minions are much older than all of us) and he's definitely the cutest.
-            </p>
-        </td>        
-    </tr>
-    <tr>
-        <td> 
-        <p style="font-size: 100px;"> 2 </p>
-        </td>
-        <td>
-            <img src="kevin.png" >
-        </td>
-        <td>
-            <p style="font-size: 25px; text-align: center;"> Kevin</p>
-            <p style="font-size: 20px;">
-            Kevin loves to make fun of and tease people or Minions, shown when he made fun of Jerry and teased him for being a coward. He likes playing golf polo and cricket. Kevin has a sense of humor, shown when he thought it was hilarious to see Tom turn into a mutant purple minion, but then immediately showed a cautious side when he realized that he was next to be a victim.
-            </p>
-        </td>         
-    </tr>
-    <tr>
-        <td> 
-        <p style="font-size: 100px;"> 3 </p>
-        </td>
-        <td>
-            <img src="stuart.png" >
-        </td>
-        <td>
-            <p style="font-size: 25px; text-align: center;"> Stuart</p>
-            <p style="font-size: 20px;">
-            Stuart is playful, friendly, intelligent and funny. He is skillful at video games like his friend Dave. He can also be the most sincere and innocent out of all the minions. He also seems to have a rebellious and obstreperous attitude. He is considered to be a slacker among the other Minions, preferring to chill out and play the ukulele than listen to the rules.
-            </p>
-        </td>         
-    </tr>
-  </table>
-  <br>
+# My rankings of the three main minions:
+<img src="bksminion.jpg" >
+
+|   |   |   |
+|---|---|---|
+|1|<img src="Bob.png" >|It's Bob the Minion, also known as King Bob. You can tell Bob apart from his “buddies” because he's short, bald, and has heterochromia (one green eye, one brown eye). Bob is the youngest of the minions (though minions are much older than all of us) and he's definitely the cutest.|
+|2|<img src="kevin.png" >|Kevin loves to make fun of and tease people or Minions, shown when he made fun of Jerry and teased him for being a coward. He likes playing golf polo and cricket. Kevin has a sense of humor, shown when he thought it was hilarious to see Tom turn into a mutant purple minion, but then immediately showed a cautious side when he realized that he was next to be a victim.|
+|3|<img src="stuart.png" >| Stuart is playful, friendly, intelligent and funny. He is skillful at video games like his friend Dave. He can also be the most sincere and innocent out of all the minions. He also seems to have a rebellious and obstreperous attitude. He is considered to be a slacker among the other Minions, preferring to chill out and play the ukulele than listen to the rules.|
